@@ -1,0 +1,67 @@
+body {
+   background-image: url("images/kirby pattern background.jpg");
+   background-repeat: no-repeat;
+   background-size: 300%;
+   
+  }
+  header{text-align: center;
+  color: burlywood;
+font-size: 75px;
+}
+h1{text-align: center;
+  color: blue;
+  font-size: 50px;
+  font-style: italic;
+}
+  h2{text-align: center;
+  font-size: 35px;
+  }
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 920px;
+  height: 500px;}
+p.onepiece{
+  font-size: larger;
+  margin-left: auto;
+  margin-right: auto;
+  width:48em
+}
+p.onepiece2{
+  font-size: larger;
+  margin-left: auto;
+  margin-right: auto;
+  width:48em
+}
+p.tokyoRevengers{
+  font-size: larger;
+  margin-left: auto;
+  margin-right: auto;
+  width: 48em
+}
+p.tokyoRevengers2{
+  font-size: larger;
+  margin-left: auto;
+  margin-right: auto;
+  width: 48em
+}
+p.fullMetalAlchemist{
+  font-size: larger;
+  margin-left: auto;
+  margin-right: auto;
+  width: 48em 
+}
+p.fullMetalAlchemist2{
+  font-size: larger;
+  margin-left: auto;
+  margin-right: auto;
+  width: 48em 
+}
+p.fullMetalAlchemist3{
+  font-size: larger;
+  margin-left: auto;
+  margin-right: auto;
+  width: 48em 
+}
